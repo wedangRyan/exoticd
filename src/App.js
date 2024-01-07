@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       <header className="App-header">
       <Typography gutterBottom variant="h4" component="div" style={{marginBottom: '100px'}}>
-        EXOTIC CAR DEALER
+        EXOTIC AUTO DEALER
       </Typography>
         <React.Fragment>
           <CssBaseline />
