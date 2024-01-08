@@ -125,4 +125,8 @@ export const datas = [
         name: 'HONDA CB 100',
         price: '$1200',
       },
+<<<<<<< HEAD
   ]
+=======
+  ]
+>>>>>>> 4497ce69adfdc7e36fbf6fed5d7f688ad73ca8b5
