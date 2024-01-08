@@ -6,28 +6,17 @@ export const datacd = [
       price: '$4900',
     },
     {
-      id: '002',
-      picture: '/img/70cup.png',
-      name: 'HONDA 70 CUP',
-      price: '$650',
-    },
-    {
       id: '003',
       picture: '/img/ae86.png',
       name: 'TOYOTA AE 86 TRUENO',
       price: '$4300',
     },
-    {
-      id: '004',
-      picture: '/img/aerox.png',
-      name: 'YAMAHA AEROX 155',
-      price: '$1900',
-    },
+
     {
       id: '005',
       picture: '/img/alpinab.png',
       name: 'BMW 750 LI ALPINAB',
-      price: '$2900',
+      price: '$5200',
     },
     {
       id: '006',
@@ -90,18 +79,6 @@ export const datacd = [
       price: '$6300',
     },
     {
-      id: '016',
-      picture: '/img/cbr.png',
-      name: 'HONDA CBR 250 RR',
-      price: '$2900',
-    },
-    {
-      id: '017',
-      picture: '/img/cbr650.png',
-      name: 'HONDA CBR 650 R',
-      price: '$4700',
-    },
-    {
       id: '018',
       picture: '/img/convertible.png',
       name: 'MINI COOPER CONVERTIBLE',
@@ -136,12 +113,6 @@ export const datacd = [
       picture: '/img/defender.png',
       name: 'LAND ROVER DEFENDER 110',
       price: '$6300',
-    },
-    {
-      id: '024',
-      picture: '/img/ducati900.png',
-      name: 'DUCATI 900 CAFERACER',
-      price: '$2750',
     },
     {
       id: '025',
@@ -204,12 +175,6 @@ export const datacd = [
       price: '$2800',
     },
     {
-      id: '035',
-      picture: '/img/goldwing.png',
-      name: 'HONDA GOLDWING 2018',
-      price: '$1900',
-    },
-    {
       id: '036',
       picture: '/img/golf.png',
       name: 'VW GOLF MK7',
@@ -222,33 +187,9 @@ export const datacd = [
       price: '$7900',
     },
     {
-      id: '038',
-      picture: '/img/harley.png',
-      name: 'FOX HARLEY',
-      price: '$300',
-    },
-    {
-      id: '039',
-      picture: '/img/iron.png',
-      name: 'HARLEY IRON 883',
-      price: '$3800',
-    },
-    {
       id: '040',
       picture: '/img/jeep.png',
       name: 'JEEP DWRANGLER',
-      price: '$2900',
-    },
-    {
-      id: '041',
-      picture: '/img/klx.png',
-      name: 'KAWASAKI KLX 150',
-      price: '$1200',
-    },
-    {
-      id: '042',
-      picture: '/img/knucklehead.png',
-      name: 'HARLEY KNUCKLEHEAD',
       price: '$2900',
     },
     {
@@ -268,12 +209,6 @@ export const datacd = [
       picture: '/img/miata.png',
       name: 'MAZDA MX5 MIATA OLD',
       price: '$5200',
-    },
-    {
-      id: '046',
-      picture: '/img/ninja.png',
-      name: 'KAWASAKI NINJA R150',
-      price: '$800',
     },
     {
       id: '047',
@@ -306,12 +241,6 @@ export const datacd = [
       price: '$5100',
     },
     {
-      id: '052',
-      picture: '/img/roadking.png',
-      name: 'HARLEY SHABU ROADKING',
-      price: '$4000',
-    },
-    {
       id: '053',
       picture: '/img/rover.png',
       name: 'RANGE ROVER STECH',
@@ -336,22 +265,10 @@ export const datacd = [
       price: '$4100',
     },
     {
-      id: '057',
-      picture: '/img/scoopy.png',
-      name: 'HONDA SCOOPY',
-      price: '$600',
-    },
-    {
       id: '058',
       picture: '/img/skyline32.png',
       name: 'NISSAN SKYLINE R32n',
       price: '$6200',
-    },
-    {
-      id: '059',
-      picture: '/img/sprint.png',
-      name: 'VESPA SPRINT',
-      price: '$1600',
     },
     {
       id: '060',
@@ -378,12 +295,6 @@ export const datacd = [
       price: '$7200',
     },
     {
-      id: '064',
-      picture: '/img/tmax.png',
-      name: 'YAMAHA T-MAX 560',
-      price: '$1800',
-    },
-    {
       id: '065',
       picture: '/img/urus.png',
       name: 'LAMBORGHINI URUS',
@@ -407,40 +318,6 @@ export const datacd = [
       name: 'BMW X6',
       price: '$3900',
     },
-    {
-      id: '069',
-      picture: '/img/yzf.png',
-      name: 'YAMAHA YZF R6',
-      price: '$3900',
-    },
-    {
-      id: '070',
-      picture: '/img/z1000.png',
-      name: 'KAWASAKI Z1000',
-      price: '$4000',
-    },
-    {
-      id: '071',
-      picture: '/img/zx6r.png',
-      name: 'KAWASAKI ZX6R',
-      price: '$3800',
-    },
-    {
-      id: '072',
-      picture: '/img/zx14r.png',
-      name: 'KAWASAKI ZX14R',
-      price: '$3900',
-    },
-    {
-        id: '073',
-        picture: '/img/cb500.png',
-        name: 'HONDA CB 500X',
-        price: '$2900',
-      },
-      {
-        id: '074',
-        picture: '/img/cb100.png',
-        name: 'HONDA CB 100',
-        price: '$1200',
-      },
   ]
+
+  
