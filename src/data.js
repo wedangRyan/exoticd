@@ -319,9 +319,3 @@ export const datacd = [
       price: '$3900',
     },
   ]
-
-<<<<<<< HEAD
-  
-=======
-  
->>>>>>> 4497ce69adfdc7e36fbf6fed5d7f688ad73ca8b5

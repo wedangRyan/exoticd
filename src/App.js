@@ -1,6 +1,5 @@
 import * as React from 'react';
 import PropTypes from 'prop-types';
-import SwipeableViews from 'react-swipeable-views';
 import { useTheme } from '@mui/material/styles';
 import AppBar from '@mui/material/AppBar';
 import Tabs from '@mui/material/Tabs';
@@ -95,11 +94,6 @@ function App() {
               <Tab label="Kendaraan Motor" {...a11yProps(1)} />
             </Tabs>
           </AppBar>
-          <SwipeableViews
-            axis={theme.direction === 'rtl' ? 'x-reverse' : 'x'}
-            index={value}
-            onChangeIndex={handleChangeIndex}
-          >
             <TabPanel value={value} index={0} dir={theme.direction}>
               <React.Fragment>
                 <CssBaseline />
@@ -172,7 +166,6 @@ function App() {
                 </Container>
               </React.Fragment>
             </TabPanel>
-          </SwipeableViews>
         </Box>
       </header>
     </div>
